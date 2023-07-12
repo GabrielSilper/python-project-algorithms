@@ -19,7 +19,7 @@ def test_encrypt_message():
     assert_message = "6543_21"
     assert encrypt_message(initial_message, 2) == assert_message
 
-    # teste para casos de uma key válida por sem índice na messagem
-    initial_message = "123456"
-    assert_message = "654321"
+    # teste para casos de uma key válida porém sem índice na messagem
+    initial_message = "87263"
+    assert_message = "36278"
     assert encrypt_message(initial_message, 8) == assert_message
