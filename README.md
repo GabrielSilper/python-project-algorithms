@@ -1,10 +1,26 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Algorithms
+
+Projeto com diversos desafios com resoluções de problemas e otimização de algoritmos. Foi ótimo pra treinar a complexidade de tempo das funções que eu crio.
+
+### O que foi usado:
+
+- Python
+- Pytest
+
+### O que foi desenvolvido:
+
+- Função com algoritmos de ordenação;
+- Função com recursividade;
+- Função com algoritmos de interatividade;
+
+### Habilidades desenvolvidas:
+
+- Lógica;
+
+- Capacidade de interpretação de problemas;
+
+- Capacidade de interpretação de um código legado;
+
+- Capacidade de otimizar a resolução de problemas;
+
+- Resolver problemas/Otimizar algoritmos sob pressão.
